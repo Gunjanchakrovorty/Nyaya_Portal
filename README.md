@@ -64,8 +64,10 @@ Node.js
 
 Express
 
-Groq API (LLaMA 3) OR OpenAI API
 
+<<<<<<< HEAD
+📂 Project Structure
+=======
 courtlytics-ai-main/
 │
 ├── src/
@@ -197,4 +199,8 @@ Deployment to Vercel + Render
 
 🏁 License
 
+<<<<<<< HEAD
 For educational, research, and hackathon use.
+=======
+For educational, research, and hackathon use.
+>>>>>>> f03aff2b8d337650703dfea50781c8e717c80c27
