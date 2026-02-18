@@ -66,7 +66,6 @@ Express
 
 Groq API (LLaMA 3) OR OpenAI API
 
-📂 Project Structure
 courtlytics-ai-main/
 │
 ├── src/
